@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyToDoKotlinApp</string>
+    <string name="to_do_list_demo">To Do List Demo</string>
+    <string name="add_an_item">Add an Item</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="clear">Clear</string>
+    <string name="my_to_do_list">My To Do List</string>
+</resources>
